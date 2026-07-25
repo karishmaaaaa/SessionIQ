@@ -1,0 +1,5 @@
+anthropic>=0.40,<1
+pydantic>=2,<3
+python-dotenv>=1,<2
+pytest>=8,<9
+pytest-mock>=3,<4
