@@ -1,0 +1,27 @@
+SESSION_ID: session_04
+SUBJECT: Intro Python — List Comprehensions
+DURATION: 00:03:58
+PARTICIPANTS: TUTOR, STUDENT (Undergraduate, Year 1)
+
+[00:00:11] TUTOR: Hey, can you hear me? Your audio was cutting out at the start.
+[00:00:17] STUDENT: Yeah I can hear you now. Sorry, the wifi here is bad.
+[00:00:23] TUTOR: No problem. So you wanted to look at list comprehensions?
+[00:00:28] STUDENT: Yeah, the lab uses them everywhere and I don't really follow what's happening.
+[00:00:36] TUTOR: Okay. Can you write me a for loop that takes a list of numbers and makes a new list with each one doubled?
+[00:00:58] STUDENT: Um, so, result equals empty list, then for n in nums, result dot append n times two, then return result.
+[00:01:14] TUTOR: That's exactly right. A list comprehension is just that, compressed into one line. Same three pieces, reordered. Do you want to guess what the order is?
+[00:01:27] STUDENT: Is it like, the n times two part first?
+[00:01:32] TUTOR: Yes — the thing you're appending goes at the front. So it's square bracket, n times two, for n in nums, close bracket. The expression, then the loop.
+[00:01:46] STUDENT: Oh okay. So it's backwards from the loop.
+[00:01:51] TUTOR: In a sense. The append target moves to the front and everything else stays in the same order. Try writing one that squares each number.
+[00:02:12] STUDENT: Bracket n times n for n in nums bracket?
+[00:02:19] TUTOR: Perfect. Or n asterisk asterisk two, same thing. Now — what if you only want the even ones?
+[00:02:30] STUDENT: I'd need an if somewhere.
+[00:02:34] TUTOR: Right, and the if goes at the end, after the for. So bracket, n, for n in nums, if n percent two equals equals zero, bracket.
+[00:02:48] STUDENT: Wait, so there's two places things can go?
+[00:02:53] TUTOR: Three eventually, but for now yes — expression at the front, condition at the back. The confusing case is when you want an if-else, because then it moves to the fro—
+[00:03:07] STUDENT: sorry you're breaking up
+[00:03:11] TUTOR: Can you hear me?
+[00:03:16] STUDENT: —ing in and out, hold on let me
+[00:03:24] TUTOR: I'll wait.
+[00:03:41] TUTOR: Are you back? I think we've lost the conne

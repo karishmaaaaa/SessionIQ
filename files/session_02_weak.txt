@@ -1,0 +1,44 @@
+SESSION_ID: session_02
+SUBJECT: Physics — Newton's Third Law
+DURATION: 00:16:05
+PARTICIPANTS: TUTOR, STUDENT (Grade 11)
+
+[00:00:03] TUTOR: Alright, so today we're doing Newton's third law. Have you covered this in class?
+[00:00:09] STUDENT: A little.
+[00:00:11] TUTOR: Okay, so I'll just go through the whole thing from the beginning and you stop me if you have questions. So Newton's third law states that for every action there is an equal and opposite reaction. What that means is that forces always come in pairs. If object A exerts a force on object B, then object B exerts a force back on object A that is equal in magnitude and opposite in direction. This is true always, in every situation, no exceptions. It doesn't matter if one object is moving and the other isn't, it doesn't matter if one is much heavier than the other, it doesn't matter if they're touching or if it's a field force like gravity. The pair is always there. Now the classic example is you push on a wall. You push on the wall with some force, and the wall pushes back on you with exactly the same force. People find this confusing because they say well if the forces are equal why doesn't the wall move, and the answer is that the forces act on different objects, so you can't cancel them. Cancelling only happens when two forces act on the same object. That's the single biggest mistake students make on this topic. Are you with me?
+[00:01:47] STUDENT: Yeah.
+[00:01:49] TUTOR: Good. So let's talk about the horse and cart problem because this comes up on exams a lot. A horse pulls a cart. The cart pulls back on the horse with an equal force. So the question is, how does anything ever move? If they're equal and opposite, shouldn't they cancel and nothing accelerates? And again the answer is the same thing I just said, the forces are on different objects. The horse-on-cart force acts on the cart. The cart-on-horse force acts on the horse. To figure out whether the cart accelerates you only look at the forces on the cart, which is the horse pulling it forward and friction pulling it back. If the horse's pull is bigger than friction, the cart accelerates. The cart-on-horse force is completely irrelevant to the cart's motion because it isn't acting on the cart. Similarly for the horse, you look at the forces on the horse, which is the cart pulling backward and the ground pushing forward on the horse's hooves. So it all works out and there's no paradox, it just looks like a paradox if you forget which object each force is acting on. Does that make sense?
+[00:03:29] STUDENT: I think so.
+[00:03:32] TUTOR: Great. Now there's also the rocket case. A rocket in space has nothing to push against, right, that's what people say. But that's wrong. The rocket pushes exhaust gas backward, and the exhaust gas pushes the rocket forward. That's the third law pair. It doesn't need air to push against. This is also why the rocket works better in a vacuum actually, because there's no air resistance. And then there's the gravitational case, which trips people up. The Earth pulls on you with your weight. And you pull on the Earth with exactly the same force. Same number. You are pulling the Earth toward you right now with about seven hundred newtons if you weigh seventy kilos. The reason the Earth doesn't visibly move is that acceleration is force divided by mass, and the Earth's mass is enormous, so the acceleration is something like ten to the minus twenty-two meters per second squared. But the force is genuinely the same. Okay?
+[00:05:11] STUDENT: ok
+[00:05:14] TUTOR: So now let me do a worked example. A book sits on a table. What are the forces? Gravity pulls the book down. The table pushes the book up with the normal force. Now, a lot of textbooks will say these are a third law pair, and that is wrong, and I want you to remember this because it's a common exam trap. They're not a pair. They both act on the book, so they can't be a third law pair — a third law pair always acts on two different objects. The actual pair for gravity-on-book is book-pulls-Earth. And the actual pair for table-pushes-book is book-pushes-table. So there are four forces in play, in two pairs. If you can keep that straight you'll get full marks on that question. Any questions?
+[00:06:52] STUDENT: no
+[00:06:55] TUTOR: Okay, so let me also mention the tug of war case. Two teams pull on a rope. Third law says team A pulls on team B with the same force team B pulls on team A. So how does anyone win? The answer is friction with the ground. The team that can push harder against the ground wins. It's not about who pulls harder on the rope, that's always equal, it's about the ground. That's a really nice example of the third law being counterintuitive but correct. Alright, so let's summarize the whole thing. Forces come in pairs. The pairs are equal and opposite. The pairs always act on different objects, which is why they never cancel. If you see two forces acting on the same object, they are not a third law pair, no matter how equal and opposite they look. That's basically the entire topic. Got it?
+[00:08:34] STUDENT: yeah
+[00:08:36] TUTOR: Let me give you a quick question then. A truck collides with a small car. Which one experiences the bigger force?
+[00:08:45] STUDENT: The car?
+[00:08:48] TUTOR: No, they're the same. That's the whole point of what I just explained. The forces are always equal. What's different is the acceleration, because the car has less mass, so the same force gives it a much bigger acceleration, which is why the car gets wrecked and the truck doesn't. But the force is identical. Okay so let's try another one. Two ice skaters push off each other, one is heavy and one is light. Who feels the bigger force?
+[00:09:21] STUDENT: um
+[00:09:26] STUDENT: The same?
+[00:09:29] TUTOR: Right. Same force, different accelerations. The light one flies off faster. Good. So you've got it.
+[00:09:38] STUDENT: ok
+[00:09:41] TUTOR: Let me go over the exam technique now. When you see a third law question, the first thing you write down is which object is exerting and which object is receiving. Always write it as A on B. So instead of writing "the force of gravity" you write "force of Earth on book." Then the pair is just the reverse, "force of book on Earth." If you use that notation you basically cannot get these questions wrong, because the pair is mechanical, you just swap the two objects. Examiners love that notation as well so you might pick up a mark for it. The other thing is that they'll often ask you to identify the pair from a diagram with four or five arrows on it, and the trick there is to look at which object each arrow starts on. If two arrows start on the same object they're not a pair. Are you writing this down?
+[00:11:12] STUDENT: yeah
+[00:11:15] TUTOR: Okay good. So there's one more subtlety which is about contact forces versus field forces, and honestly this is beyond what you need but it's worth knowing. For contact forces the pair is obvious because you can see the two objects touching. For field forces like gravity and magnetism, the two objects aren't touching, and there's a delay in the field propagating, so at a very advanced level the pairs aren't simultaneous. But for your syllabus you treat them as simultaneous and equal and you'll be fine. I just mention it so you're not surprised later. Alright. So what questions do you have?
+[00:12:33] STUDENT: I don't know.
+[00:12:36] TUTOR: Nothing at all?
+[00:12:39] STUDENT: not really
+[00:12:42] TUTOR: Okay well that probably means it's all clear. Let me just recap once more because repetition helps with this topic. Pairs, equal, opposite, different objects. Same object means not a pair. Force divided by mass gives acceleration, which is why equal forces produce unequal results. Rocket pushes gas, gas pushes rocket. Horse pushes ground, ground pushes horse. You pull the Earth, the Earth pulls you. If you can say all of that back you're done with this topic.
+[00:13:31] STUDENT: k
+[00:13:34] TUTOR: So for homework I'd do the questions at the end of chapter four, probably one through fifteen, and then the exam-style ones at the back. If you get stuck on any of them message me.
+[00:13:48] STUDENT: how long is that
+[00:13:51] TUTOR: Maybe an hour? It's not too bad once you have the idea.
+[00:13:57] STUDENT: ok
+[00:14:00] TUTOR: Is there anything from today you want me to go over again?
+[00:14:06] STUDENT: no it's fine
+[00:14:09] TUTOR: You sure? We've got a couple of minutes.
+[00:14:14] STUDENT: yeah um are we done? I have to go do something
+[00:14:20] TUTOR: Oh, sure, we can wrap early. Same time next week?
+[00:14:26] STUDENT: yeah
+[00:14:28] TUTOR: Great, and remember, different objects. That's the whole thing.
+[00:14:34] STUDENT: ok bye

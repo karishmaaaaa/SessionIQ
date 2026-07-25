@@ -1,0 +1,79 @@
+SESSION_ID: session_03
+SUBJECT: Chemistry — Stoichiometry and Limiting Reagents
+DURATION: 00:18:30
+PARTICIPANTS: TUTOR, STUDENT (Grade 11)
+
+[00:00:05] TUTOR: Hi Priya. So you said you wanted to look at limiting reagents today?
+[00:00:11] STUDENT: Yeah, the homework is all limiting reagent problems and I can't get any of them.
+[00:00:18] TUTOR: Okay. Before we get there I want to make sure the foundations are solid, because limiting reagents build on mole conversions. Let's start with grams to moles.
+[00:00:29] STUDENT: I'm okay with that part actually.
+[00:00:32] TUTOR: Let's just check quickly. So the mole is a counting unit, like a dozen. A dozen is twelve of something, a mole is 6.022 times ten to the twenty-third of something. That number is Avogadro's number. The reason chemists use it is that atoms are so small that counting them individually is impossible, so we need a bridge between the mass we can weigh out in the lab and the number of particles that actually react. That bridge is the molar mass, which you get off the periodic table.
+[00:01:04] STUDENT: Right, yeah, I know this.
+[00:01:07] TUTOR: So if I give you eighteen grams of water, how many moles is that?
+[00:01:13] STUDENT: One. Because water is eighteen grams per mole.
+[00:01:18] TUTOR: Perfect. And where did eighteen come from?
+[00:01:22] STUDENT: Two hydrogens is two, oxygen is sixteen, so eighteen.
+[00:01:28] TUTOR: Exactly. Now let me show you the dimensional analysis way of setting that up, because it will save you when the problems get harder. You write the thing you're given, eighteen grams of water, then you multiply by a conversion factor, one mole over eighteen grams. The grams cancel diagonally. You always want the unit you're getting rid of on the bottom of the fraction. So grams over one, times mole over grams, the grams cancel and you're left with moles. Let me write that out.
+[00:02:03] STUDENT: Okay.
+[00:02:06] TUTOR: Now here's why the cancelling matters. Say you'd set it up upside down, eighteen grams times eighteen grams over one mole. You'd get three hundred twenty-four grams squared per mole, which is a meaningless unit. So the units are actually a built-in error check. If your answer comes out in a weird unit you've flipped a fraction somewhere. A lot of students skip writing units and then they can't find their own mistakes.
+[00:02:36] STUDENT: Yeah I do write the units.
+[00:02:39] TUTOR: Good. Let's do a couple more to lock it in. How about forty-four grams of carbon dioxide?
+[00:02:47] STUDENT: One mole. Carbon twelve plus sixteen plus sixteen.
+[00:02:54] TUTOR: And a hundred grams of calcium carbonate?
+[00:03:12] STUDENT: One mole again. It's a hundred grams per mole.
+[00:03:18] TUTOR: Nice. Now let's go the other way, moles to grams, because problems often ask for the answer in grams at the end. Same idea, you just flip the conversion factor. If you have three moles of water, you write three moles times eighteen grams over one mole, moles cancel, fifty-four grams. The key insight is that the conversion factor is the same number, you just choose which way up to write it based on what you want to cancel.
+[00:03:50] STUDENT: Yeah, that's what I've been doing.
+[00:03:54] TUTOR: Let me give you a slightly trickier one. Point two five moles of sodium chloride.
+[00:04:05] STUDENT: Fifty-eight point five times point two five... about fourteen point six grams.
+[00:04:16] TUTOR: Correct. And notice that fewer moles gives fewer grams, so a quick sanity check is to ask whether your answer moved in the direction you'd expect. If you'd accidentally divided you'd have gotten two hundred thirty-four grams, which is more than a mole's worth, and that should feel wrong.
+[00:04:35] STUDENT: Mhm.
+[00:04:38] TUTOR: There's also particles. Moles to particles is Avogadro's number, moles to volume for a gas at STP is 22.4 liters per mole. People sometimes call this the mole map or the mole highway — grams on one side, particles on the other, moles always in the middle. You can never go directly from grams to particles, you always route through moles. Let me sketch that.
+[00:05:08] STUDENT: We haven't done gases yet.
+[00:05:12] TUTOR: Oh, okay. Well it's worth seeing anyway so you recognise it later. So the structure is always the same: convert to moles, do the chemistry in moles, convert back out of moles. Every stoichiometry problem you will ever do has that shape. Mole ratios only work in moles, never in grams, and that's the single thing to remember.
+[00:05:36] STUDENT: Okay. So is that the limiting reagent part?
+[00:05:41] TUTOR: Almost, we need the mole ratio first. In a balanced equation, the coefficients tell you the ratio the substances react in. So for two H2 plus O2 makes two H2O, the ratio of hydrogen to oxygen is two to one. Two moles of hydrogen for every one mole of oxygen. Not two grams to one gram — that's the mistake everyone makes.
+[00:06:07] STUDENT: Right.
+[00:06:09] TUTOR: So if you had four moles of hydrogen and plenty of oxygen, how much water?
+[00:06:16] STUDENT: Four moles of water.
+[00:06:19] TUTOR: Right, because the ratio of hydrogen to water is two to two, which is one to one. Let's do another. If you had six moles of hydrogen?
+[00:06:31] STUDENT: Six moles of water. And three of oxygen used up.
+[00:06:38] TUTOR: Good, you've got it. Let me just also show you what happens when the coefficients aren't nice numbers, like the combustion of propane, C3H8 plus five O2 gives three CO2 plus four H2O. So the ratios there are one to five to three to four. If you burn two moles of propane you need ten moles of oxygen and you get six moles of CO2 and eight moles of water. Everything scales together.
+[00:07:14] STUDENT: Okay, yeah.
+[00:07:17] TUTOR: And that balancing itself is worth practising because if the equation isn't balanced every number after it is wrong. Do you want me to go through balancing?
+[00:07:28] STUDENT: No, I'm alright at balancing. Can we do the limiting reagent thing? That's the actual homework.
+[00:07:36] TUTOR: Sure, yes. Let me check the time — okay, we've got a bit under eleven minutes, we can get through it.
+[00:07:45] TUTOR: So, limiting reagent. When you have two reactants, usually one runs out first. That one is the limiting reagent because it limits how much product you can make. The other one is in excess, meaning there's leftover.
+[00:07:59] STUDENT: How do you know which one runs out?
+[00:08:03] TUTOR: You convert both to moles, then divide each by its coefficient, and whichever gives the smaller number is limiting. So for example, ten grams of H2 and ten grams of O2. Hydrogen is two grams per mole so that's five moles. Oxygen is thirty-two per mole so that's point three one two five moles. Divide hydrogen by two, get two point five. Divide oxygen by one, get point three one two five. Oxygen is smaller so oxygen is limiting. Then you use oxygen's moles for everything downstream. Point three one two five moles of oxygen times two moles of water over one mole of oxygen is point six two five moles of water, times eighteen is about eleven point two five grams of water.
+[00:08:56] STUDENT: Wait, why did you divide by the coefficient?
+[00:09:01] TUTOR: Because the coefficients aren't equal, so you can't compare the mole amounts directly, you have to normalise them. Dividing by the coefficient tells you how many "batches" of the reaction each reactant could support. Smallest number of batches wins.
+[00:09:16] STUDENT: Batches?
+[00:09:19] TUTOR: Like a recipe. If a recipe needs two eggs and one cup of flour, and you have ten eggs and one cup of flour, you can make five batches worth of egg but only one batch worth of flour, so flour limits you. Same idea. Let me do another one. Twenty-eight grams of nitrogen and ten grams of hydrogen making ammonia, N2 plus three H2 gives two NH3. Nitrogen is twenty-eight per mole so one mole. Hydrogen is two per mole so five moles. One divided by one is one, five divided by three is one point six seven. One is smaller so nitrogen is limiting. Two moles of ammonia, times seventeen, thirty-four grams.
+[00:10:11] STUDENT: Okay, hold on. Which number was the one you compared, I lost it.
+[00:10:18] TUTOR: The one and the one point six seven. Nitrogen gives one, hydrogen gives one point six seven.
+[00:10:26] STUDENT: And that's after dividing.
+[00:10:29] TUTOR: After dividing by the coefficient, yes. So then you also might get asked how much excess is left over. Nitrogen used one mole, which needs three moles of hydrogen, you had five, so two moles of hydrogen left, which is four grams. And then percent yield, which is actual over theoretical times a hundred — the theoretical is the number you just calculated, the actual is what they tell you was measured in the lab. That's usually the last part of the question.
+[00:11:00] STUDENT: Okay.
+[00:11:03] TUTOR: Let's try one. Fifty grams of aluminium and a hundred grams of chlorine gas, two Al plus three Cl2 gives two AlCl3. Find the limiting reagent.
+[00:11:35] STUDENT: So, fifty divided by twenty-seven is... one point eight five moles of aluminium. And chlorine is seventy-one so a hundred over seventy-one is one point four moles.
+[00:11:54] TUTOR: Good, now divide.
+[00:12:04] STUDENT: One point eight five over two is point nine two. And one point four over three is point four seven.
+[00:12:14] TUTOR: So?
+[00:12:17] STUDENT: Chlorine is limiting. Because point four seven is smaller.
+[00:12:23] TUTOR: Exactly right. And the product?
+[00:12:31] STUDENT: Um. So I use the chlorine. One point four moles times... two over three? Is that right?
+[00:12:44] TUTOR: Yes, two AlCl3 over three Cl2.
+[00:12:49] STUDENT: So point nine three moles. Times the molar mass of AlCl3 which is... twenty-seven plus three times thirty-five point five, so one thirty-three point five. That's about one hundred twenty-four grams.
+[00:13:12] TUTOR: Correct. Nice work.
+[00:13:15] STUDENT: Okay but I'm still not totally sure why the dividing works. Like I can do it but I don't get it.
+[00:13:24] TUTOR: It's the batches thing. Honestly at this stage it's fine to just do the procedure, the intuition comes with practice. We're at time — can you do the rest of the homework using that method?
+[00:13:38] STUDENT: I think so? Some of them have three reactants though.
+[00:13:44] TUTOR: Same method, just divide all three and take the smallest. It generalises.
+[00:13:51] STUDENT: And one of them asks about excess in grams, is that the thing you did quickly earlier?
+[00:13:59] TUTOR: Yes — figure out how much of the excess reactant actually got used, subtract from what you started with, convert to grams. It's a subtraction at the end, that's all.
+[00:14:11] STUDENT: Okay. I might message you if I get stuck.
+[00:14:16] TUTOR: Do that. And honestly just drill the procedure, twenty problems and it becomes automatic. Understanding follows the repetition on this one.
+[00:14:27] STUDENT: Okay. Thanks.
+[00:14:30] TUTOR: Next week we can do percent yield properly if you want, we only touched it.
+[00:14:37] STUDENT: Yeah, that's on the test too.
+[00:14:41] TUTOR: Then let's do that. See you Tuesday.

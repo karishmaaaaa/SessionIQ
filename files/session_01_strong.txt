@@ -1,0 +1,93 @@
+SESSION_ID: session_01
+SUBJECT: Algebra II — Factoring Quadratics
+DURATION: 00:14:47
+PARTICIPANTS: TUTOR, STUDENT (Grade 10)
+
+[00:00:06] TUTOR: Hey Devin, good to see you. Before we dive in — how did Friday's quiz go?
+[00:00:12] STUDENT: Not great. I got the first two but then there was this whole section on factoring and I just kind of stared at it.
+[00:00:21] TUTOR: Okay, that's useful. Can you show me one you stared at?
+[00:00:26] STUDENT: Yeah, um, hold on. It was like x squared plus seven x plus twelve equals zero.
+[00:00:35] TUTOR: Great. Don't solve it yet. I want to go backwards first. Can you multiply out x plus three times x plus four for me?
+[00:00:44] STUDENT: Oh, FOIL? Yeah I can do that.
+[00:00:47] TUTOR: Take your time.
+[00:01:09] STUDENT: Okay so x times x is x squared, then x times four is four x, then three times x is three x, then three times four is twelve. So... x squared plus seven x plus twelve.
+[00:01:24] TUTOR: Say that last part again?
+[00:01:26] STUDENT: x squared plus seven x plus twelve.
+[00:01:30] TUTOR: Now look at what you just wrote and look at your quiz question.
+[00:01:36] STUDENT: ...
+[00:01:44] STUDENT: Wait, it's the same thing.
+[00:01:47] TUTOR: It's the same thing.
+[00:01:50] STUDENT: So factoring is just... doing FOIL backwards?
+[00:01:55] TUTOR: That's exactly what it is. And you already know how to do FOIL, so you already have half of this. The only new part is figuring out the two numbers when nobody hands them to you.
+[00:02:08] STUDENT: Okay but how do I figure out the numbers though. That's the part I get stuck on.
+[00:02:15] TUTOR: Fair question. Let's look at where the seven and the twelve came from in what you just did. Where did the twelve come from?
+[00:02:24] STUDENT: Three times four.
+[00:02:27] TUTOR: And the seven?
+[00:02:30] STUDENT: Three plus four.
+[00:02:33] TUTOR: So if I hand you a twelve and a seven, what are you hunting for?
+[00:02:40] STUDENT: Two numbers that multiply to twelve and add to seven.
+[00:02:45] TUTOR: Try it on this one. x squared plus five x plus six.
+[00:02:52] STUDENT: Okay so I need... two things that multiply to six. One and six, or two and three.
+[00:03:06] STUDENT: Two and three add to five. So it's x plus two times x plus three?
+[00:03:14] TUTOR: Check it. Don't take my word for it.
+[00:03:29] STUDENT: x squared plus three x plus two x plus six... yeah that's x squared plus five x plus six. It works.
+[00:03:40] TUTOR: Good. Now I'm going to make it meaner. x squared minus five x plus six.
+[00:03:49] STUDENT: Minus five. Um.
+[00:04:02] STUDENT: So still two and three because they multiply to six, but I need them to add to negative five, and two plus three is positive five, so...
+[00:04:16] STUDENT: Negative two and negative three? Because negative times negative is positive six, and negative two plus negative three is negative five.
+[00:04:27] TUTOR: What made you try that?
+[00:04:31] STUDENT: I needed the product to stay positive but the sum to flip, and the only way to do that is if they're both negative.
+[00:04:41] TUTOR: That's the actual rule, and you just derived it instead of memorizing it. Hold onto that reasoning, because it's what saves you on the sign questions.
+[00:04:52] STUDENT: Okay, so what if the last number is negative? Like x squared plus x minus six.
+[00:05:01] TUTOR: You tell me. What has to be true about the two numbers if they multiply to negative six?
+[00:05:10] STUDENT: One's positive and one's negative.
+[00:05:14] TUTOR: Go.
+[00:05:36] STUDENT: Three and negative two. Because three times negative two is negative six and three plus negative two is one. So x plus three times x minus two.
+[00:05:50] TUTOR: How confident are you in that, one to five?
+[00:05:54] STUDENT: Like a four? I want to check it.
+[00:06:00] TUTOR: Always check it. That instinct is worth more than the answer.
+[00:06:18] STUDENT: Yeah it works out.
+[00:06:22] TUTOR: Let me push on something. You solved for the factors, but the original quiz question said equals zero. What does the equals zero part want from you?
+[00:06:34] STUDENT: Oh. Right. Um, the answers, the x values.
+[00:06:41] TUTOR: So you've got x plus three times x minus two equals zero. Two things multiplied together give you zero. What does that tell you about at least one of them?
+[00:06:53] STUDENT: One of them has to be zero.
+[00:06:57] TUTOR: Why?
+[00:07:03] STUDENT: Because... if neither of them was zero you'd get some non-zero number when you multiply. The only way to land on zero is if one of them is already zero.
+[00:07:16] TUTOR: That is the zero product property and you just stated it better than the textbook does. So finish it.
+[00:07:26] STUDENT: So x plus three equals zero, x is negative three. Or x minus two equals zero, x is two.
+[00:07:38] TUTOR: And a really common mistake here is writing x equals three instead of negative three. Why does the sign flip?
+[00:07:47] STUDENT: Because you subtract three from both sides. Yeah, I did that on the quiz actually. I think I wrote three.
+[00:07:57] TUTOR: Now you know what to look for. Let's do three more, and I'm going to stay quiet unless you ask.
+[00:08:06] STUDENT: Okay.
+[00:08:09] TUTOR: x squared minus x minus twelve.
+[00:08:44] STUDENT: x minus four times x plus three, so x is four or negative three.
+[00:08:52] TUTOR: Next. x squared plus eight x plus fifteen.
+[00:09:21] STUDENT: Three and five, both positive. x plus three times x plus five. x is negative three or negative five.
+[00:09:33] TUTOR: Last one, and this one's a little different. x squared minus nine.
+[00:09:41] STUDENT: Wait, there's no middle term.
+[00:09:45] TUTOR: There isn't. Does that break your method?
+[00:09:52] STUDENT: Um. Two numbers that multiply to negative nine and add to... zero? Because there's no x?
+[00:10:05] TUTOR: Is that legal?
+[00:10:09] STUDENT: I mean, three and negative three. They multiply to negative nine and add to zero. So x plus three times x minus three.
+[00:10:22] STUDENT: That's the difference of squares thing, isn't it. My teacher taught that as a separate rule.
+[00:10:30] TUTOR: It is, and it's not really a separate rule — it's the same method with a middle term of zero. But knowing the shortcut will save you time on a test, so learn both.
+[00:10:43] STUDENT: That's kind of annoying that they taught it separately.
+[00:10:48] TUTOR: A lot of things get taught as separate rules when they're one idea. Part of what we're doing is collapsing them back down.
+[00:11:00] TUTOR: Okay. Reflect for me. If you hit a factoring problem on the next quiz, what's your first move?
+[00:11:09] STUDENT: Find two numbers that multiply to the last number and add to the middle number. Then check the signs — if the last one's negative, one of my numbers is negative.
+[00:11:24] TUTOR: And if you get stuck?
+[00:11:28] STUDENT: FOIL it back out to check.
+[00:11:32] TUTOR: What's still shaky?
+[00:11:36] STUDENT: Probably when there's a number in front of the x squared. Like three x squared plus something. We haven't done those.
+[00:11:47] TUTOR: Correct, and that's genuinely harder — it's a different technique. Let's make that next session so we can give it real time instead of rushing it in the last four minutes.
+[00:11:59] STUDENT: Yeah, okay. Can you send me a few of the ones we didn't do?
+[00:12:05] TUTOR: I'll put six problems in the shared doc, mixed signs, no leading coefficient. Do them without looking at today's notes, then check.
+[00:12:16] STUDENT: Without the notes?
+[00:12:19] TUTOR: Without the notes. If you can't do it without the notes you haven't learned it yet, you've just watched me do it.
+[00:12:28] STUDENT: Fair.
+[00:12:31] TUTOR: One more thing before we stop. That moment at the start where you saw that factoring was FOIL backwards — how did that land?
+[00:12:41] STUDENT: Honestly it kind of annoyed me? Like nobody said that. I've been treating it as this random thing you have to guess at.
+[00:12:53] TUTOR: A lot of algebra is like that. If something feels like guessing, that's usually a sign there's a connection nobody showed you. Ask me when it happens.
+[00:13:06] STUDENT: Okay. This actually makes sense now.
+[00:13:11] TUTOR: Good. Six problems, no notes, and we'll do leading coefficients Thursday.
+[00:13:19] STUDENT: Thanks Maya.
