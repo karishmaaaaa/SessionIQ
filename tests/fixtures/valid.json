@@ -1,0 +1,39 @@
+{
+  "transcript_id": "session_01_strong",
+  "schema_version": "1.0",
+  "engagement": {
+    "score": 5,
+    "confidence": "high",
+    "rationale": "The student reasons aloud and connects ideas without prompting.",
+    "evidence": [
+      {"quote": "So factoring is just... doing FOIL backwards?", "timestamp": "00:01:50"},
+      {"quote": "One of them has to be zero.", "timestamp": "00:06:53"}
+    ]
+  },
+  "clarity": {
+    "score": 4,
+    "confidence": "high",
+    "rationale": "The tutor builds new ideas from what the student already knows.",
+    "evidence": [
+      {"quote": "That's exactly what it is.", "timestamp": "00:01:55"}
+    ]
+  },
+  "pacing": {
+    "score": 4,
+    "confidence": "medium",
+    "rationale": "Time is spent where the student struggles and the tutor yields the floor.",
+    "evidence": [
+      {"quote": "Always check it.", "timestamp": "00:06:00"}
+    ]
+  },
+  "notable_moments": [
+    {
+      "kind": "breakthrough",
+      "timestamp": "00:01:50",
+      "quote": "So factoring is just... doing FOIL backwards?",
+      "why_it_matters": "The student connects factoring to FOIL on their own."
+    }
+  ],
+  "summary": "A strong session: the student derives rules rather than memorizing them and self-checks their work.",
+  "flags": []
+}

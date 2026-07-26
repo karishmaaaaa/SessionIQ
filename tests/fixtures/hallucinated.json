@@ -1,0 +1,31 @@
+{
+  "transcript_id": "session_01_strong",
+  "schema_version": "1.0",
+  "engagement": {
+    "score": 5,
+    "confidence": "high",
+    "rationale": "The student reasons aloud and connects ideas without prompting.",
+    "evidence": [
+      {"quote": "So factoring is just... doing FOIL backwards?", "timestamp": "00:01:50"}
+    ]
+  },
+  "clarity": {
+    "score": 4,
+    "confidence": "high",
+    "rationale": "This evidence quote never appears anywhere in the transcript.",
+    "evidence": [
+      {"quote": "The mitochondria is the powerhouse of the cell.", "timestamp": "00:01:55"}
+    ]
+  },
+  "pacing": {
+    "score": 4,
+    "confidence": "medium",
+    "rationale": "Time is spent where the student struggles and the tutor yields the floor.",
+    "evidence": [
+      {"quote": "Always check it.", "timestamp": "00:06:00"}
+    ]
+  },
+  "notable_moments": [],
+  "summary": "Structurally valid, but the clarity evidence quote is hallucinated.",
+  "flags": []
+}
