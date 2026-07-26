@@ -1,0 +1,31 @@
+{
+  "transcript_id": "session_01_strong",
+  "schema_version": "1.0",
+  "engagement": {
+    "score": 5,
+    "confidence": "high",
+    "rationale": "The student reasons aloud and connects ideas without prompting.",
+    "evidence": [
+      {"quote": "So factoring is just... doing FOIL backwards?", "timestamp": "00:01:50"}
+    ]
+  },
+  "clarity": {
+    "score": 4,
+    "confidence": "very high",
+    "rationale": "Confidence uses a value outside the allowed low/medium/high enum.",
+    "evidence": [
+      {"quote": "That's exactly what it is.", "timestamp": "00:01:55"}
+    ]
+  },
+  "pacing": {
+    "score": 4,
+    "confidence": "medium",
+    "rationale": "Time is spent where the student struggles and the tutor yields the floor.",
+    "evidence": [
+      {"quote": "Always check it.", "timestamp": "00:06:00"}
+    ]
+  },
+  "notable_moments": [],
+  "summary": "Confidence enum is deliberately invalid to exercise structural validation.",
+  "flags": []
+}

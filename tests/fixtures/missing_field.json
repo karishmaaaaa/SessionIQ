@@ -1,0 +1,23 @@
+{
+  "transcript_id": "session_01_strong",
+  "schema_version": "1.0",
+  "engagement": {
+    "score": 5,
+    "confidence": "high",
+    "rationale": "The student reasons aloud and connects ideas without prompting.",
+    "evidence": [
+      {"quote": "So factoring is just... doing FOIL backwards?", "timestamp": "00:01:50"}
+    ]
+  },
+  "clarity": {
+    "score": 4,
+    "confidence": "high",
+    "rationale": "The tutor builds new ideas from what the student already knows.",
+    "evidence": [
+      {"quote": "That's exactly what it is.", "timestamp": "00:01:55"}
+    ]
+  },
+  "notable_moments": [],
+  "summary": "The required 'pacing' dimension is deliberately omitted.",
+  "flags": []
+}
