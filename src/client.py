@@ -88,12 +88,15 @@ def _get_client() -> anthropic.Anthropic:
 
     The key is never logged. The SDK also resolves it from the environment, but
     we check explicitly to fail with a clear, actionable message.
+
+    ``max_retries=0`` disables the SDK's built-in transient-error retrying so the
+    pipeline's own retry/backoff is the single, visible retry mechanism.
     """
     if not os.environ.get("ANTHROPIC_API_KEY"):
         raise RuntimeError(
             "ANTHROPIC_API_KEY is not set. Copy .env.example to .env and add your key."
         )
-    return anthropic.Anthropic()
+    return anthropic.Anthropic(max_retries=0)
 
 
 def _extract_tool_input(message: anthropic.types.Message) -> tuple[dict, str]:
